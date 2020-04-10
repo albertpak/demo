@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "phlebotomy-training-kit-1",
+      "name": "Phlebotomy Training Kit #1",
+      "details": "Advanced Phlebotomy Basket with drawer, inludes 51 place stainless steel rack, 2 bin cups, 2 Squeegie Squeezer and 3 Tube-Cubes - 9 place, 4 place and single for the Alcohol dispenser. Tubes and alcohol dispenser are not included.",
+      "price": "$69.99",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91hJPJoa7sL._SL1500_.jpg"
+    },
+    {
+      "id": "phlebotomy-training-kit-2",
+      "name": "Phlebotomy Tray",
+      "details": "The Flexi-Phleb has large carrying capacity without bulk. The tray provides a handy pull out drawer that is great for storing needles, bandages and other items. The top level accepts removable TubeCUBEs that secure a variety of tubes, ice cups for temperature sensitive samples, or sharps containers. Back at the lab, merely exchange your collected samples in Tube-CUBE",
+      "price": "$99.99",
+      "image": "https://www.unicosci.com/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/4/8/48710_.png"
+    }
+  ],
+  "profile": {
+    "name": "phlebotomytrainingkit"
+  }
+}
